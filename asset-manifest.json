@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-assignment1/static/css/main.a617e044.chunk.css",
-    "main.js": "/React-assignment1/static/js/main.603b634c.chunk.js",
-    "main.js.map": "/React-assignment1/static/js/main.603b634c.chunk.js.map",
-    "runtime-main.js": "/React-assignment1/static/js/runtime-main.35309df5.js",
-    "runtime-main.js.map": "/React-assignment1/static/js/runtime-main.35309df5.js.map",
-    "static/js/2.4eee8ac1.chunk.js": "/React-assignment1/static/js/2.4eee8ac1.chunk.js",
-    "static/js/2.4eee8ac1.chunk.js.map": "/React-assignment1/static/js/2.4eee8ac1.chunk.js.map",
-    "static/js/3.bc164ced.chunk.js": "/React-assignment1/static/js/3.bc164ced.chunk.js",
-    "static/js/3.bc164ced.chunk.js.map": "/React-assignment1/static/js/3.bc164ced.chunk.js.map",
+    "main.css": "/React-assignment1/static/css/main.1d9c6610.chunk.css",
+    "main.js": "/React-assignment1/static/js/main.153349b8.chunk.js",
+    "main.js.map": "/React-assignment1/static/js/main.153349b8.chunk.js.map",
+    "runtime-main.js": "/React-assignment1/static/js/runtime-main.03486041.js",
+    "runtime-main.js.map": "/React-assignment1/static/js/runtime-main.03486041.js.map",
+    "static/js/2.a632bae5.chunk.js": "/React-assignment1/static/js/2.a632bae5.chunk.js",
+    "static/js/2.a632bae5.chunk.js.map": "/React-assignment1/static/js/2.a632bae5.chunk.js.map",
+    "static/js/3.c9c677ba.chunk.js": "/React-assignment1/static/js/3.c9c677ba.chunk.js",
+    "static/js/3.c9c677ba.chunk.js.map": "/React-assignment1/static/js/3.c9c677ba.chunk.js.map",
     "index.html": "/React-assignment1/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/React-assignment1/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.4eee8ac1.chunk.js.LICENSE.txt": "/React-assignment1/static/js/2.4eee8ac1.chunk.js.LICENSE.txt",
+    "static/css/main.1d9c6610.chunk.css.map": "/React-assignment1/static/css/main.1d9c6610.chunk.css.map",
+    "static/js/2.a632bae5.chunk.js.LICENSE.txt": "/React-assignment1/static/js/2.a632bae5.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/React-assignment1/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.35309df5.js",
-    "static/js/2.4eee8ac1.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.603b634c.chunk.js"
+    "static/js/runtime-main.03486041.js",
+    "static/js/2.a632bae5.chunk.js",
+    "static/css/main.1d9c6610.chunk.css",
+    "static/js/main.153349b8.chunk.js"
   ]
 }
