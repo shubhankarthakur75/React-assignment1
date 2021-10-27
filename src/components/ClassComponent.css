@@ -1,0 +1,8 @@
+.class-component{ 
+    min-height: 200px; 
+    width:500px;
+    border:2px solid black;
+    border-radius: 20px;
+    background-color: rgb(180, 86, 224);
+}
+
