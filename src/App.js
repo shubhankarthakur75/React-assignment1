@@ -31,19 +31,21 @@ class App extends Component {
     return (
       <div className="App">
         <div className="header">
-          <h1>Hello</h1>
-
           <h2>Styling Using Functional and Class Component</h2>
         </div>
         <div className="main-container">
           <div className="container1">
-            <button onClick={this.displayFunction}>
-              <h3>To see styling in functional component</h3>
-            </button>
+            <div className="functional-component-btn">
+              <button onClick={this.displayFunction}>
+                <h3>To see styling in functional component</h3>
+              </button>
+            </div>
 
-            <button onClick={this.displayClass}>
-              <h3>To see styling in class component</h3>
-            </button>
+            <div className="class-component-btn">
+              <button onClick={this.displayClass}>
+                <h3>To see styling in class component</h3>
+              </button>
+            </div>
           </div>
 
           <div className="container2">

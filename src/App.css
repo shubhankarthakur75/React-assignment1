@@ -1,50 +1,54 @@
 .App {
   text-align: center;
-  height:100vh;
-  background:linear-gradient(to bottom,rgb(112, 131, 131),rgb(247, 100, 100),white)
+  height: 100vh;
+  background: linear-gradient(
+    to bottom,
+    rgb(112, 131, 131),
+    rgb(247, 100, 100),
+    white
+  );
 }
 
-.header{
-  width:100%;
+.header {
+  width: 100%;
   text-shadow: 2px 2px cyan;
 }
 
-.main-container{
+.main-container {
   display: flex;
   flex-direction: column;
-  height:500px;
+  height: 500px;
   justify-content: space-around;
-
 }
 
-.container1{
+.container1 {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
 
-
-button{
-
+button {
   background-color: darkgray;
-  border:2px solid black;
+  border: 2px solid black;
   border-radius: 20px;
   padding: 15px;
-
 }
 
-button:hover{
-  background-color:cyan;
+.functional-component-btn:hover {
+  background-color: cyan;
 }
 
-.tabs{
-  width:100%;
+.class-component-btn:hover {
+  background-color: rgb(180, 86, 224);
+}
+
+.tabs {
+  width: 100%;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
 }
-
 
 .App-logo {
   height: 40vmin;
