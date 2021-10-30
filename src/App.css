@@ -34,11 +34,11 @@ button {
   padding: 15px;
 }
 
-.functional-component-btn:hover {
+.functional-component-btn :hover {
   background-color: cyan;
 }
 
-.class-component-btn:hover {
+.class-component-btn :hover {
   background-color: rgb(180, 86, 224);
 }
 
