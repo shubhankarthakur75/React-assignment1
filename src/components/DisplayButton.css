@@ -1,0 +1,14 @@
+button {
+  background-color: darkgray;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 15px;
+}
+
+.functional-component-btn :hover {
+  background-color: cyan;
+}
+
+.class-component-btn :hover {
+  background-color: rgb(180, 86, 224);
+}
